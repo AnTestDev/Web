@@ -1,0 +1,12 @@
+
+{
+    "titulo": "Example Title",
+    "email": "web.developer@gmail.com",
+    "name": "Owner",
+    "sitio": "https://www.mysite.com/",
+    "page": "https://example.developer.com",
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "instagram": "https://www.instagram.com",
+    "equipo_trabajo":[]
+}
